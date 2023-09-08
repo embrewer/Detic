@@ -30,7 +30,7 @@ from detic.config import add_detic_config
 from detic.modeling.utils import reset_cls_test
 from detic.modeling.text.text_encoder import build_text_encoder
 from centernet.config import add_centernet_config
-from detic.data import datasets
+#from detic.data import datasets
 
 
 BUILDIN_CLASSIFIER = {
